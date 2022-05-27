@@ -1,0 +1,18 @@
+.card{
+    width: 70%;
+    margin: 0 auto 1rem auto;
+}
+
+.card-body{
+    color:#343a40;
+}
+.card-body:hover{
+    color:white;
+    background-color: #343a40;
+}
+i{
+    margin-bottom:1rem;
+}
+.cards-container{
+    margin:5rem 0;
+  }

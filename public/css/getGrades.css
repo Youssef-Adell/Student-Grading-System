@@ -1,0 +1,16 @@
+table{
+    background-color:white;
+}
+
+.stud-info{
+    background-color:bisque;
+    border-color:bisque;
+}
+
+.stud-info td{
+    text-align: left;
+
+}
+.stud-info th{
+    text-align: right;
+}
