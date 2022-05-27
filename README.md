@@ -7,7 +7,7 @@ Web Application helps admins to manage students data and grades and helps studen
 
 ## Features
 
-- login system for admins
+- login System for admins
 - Control Panel to manage the system
 - Admins can add, update and delete students data
 - Admins can add and delete grades for each student
