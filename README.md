@@ -40,6 +40,6 @@ Web Application helps admins to manage students data and grades and helps studen
 ![App Screenshot](https://www.linkpicture.com/q/Add_Grade.jpeg)
 
 ## Demo
-NOTE: Use "nctu" as a username and password to login into control panel as an admin
+**NOT:** Use "nctu" as a username and password to login into control panel as an admin
 
 http://nctu.c1.biz/
