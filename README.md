@@ -1,2 +1,43 @@
+
 # Student Grading System
- 
+
+Web Application helps admins to manage students data and grades and helps students get their grades.
+
+
+
+## Features
+
+- login system for admins
+- Control Panel for admins to manage the system
+- Admins can add, modify and delete students data
+- Admins can add and delete grades for each student
+- Student can get his grades by ID
+
+
+## Built With
+
+- PHP
+- SQL
+- Bootstrap
+
+
+## Screenshots
+
+![App Screenshot](https://www.linkpicture.com/q/Hompage.jpeg)
+
+![App Screenshot](https://www.linkpicture.com/q/Get_Grades.jpeg)
+
+![App Screenshot](https://www.linkpicture.com/q/Login.jpeg)
+
+![App Screenshot](https://www.linkpicture.com/q/Control_Panel.jpeg)
+
+![App Screenshot](https://www.linkpicture.com/q/Manage_Students.jpeg)
+
+![App Screenshot](https://www.linkpicture.com/q/Add_Student.jpeg)
+
+![App Screenshot](https://www.linkpicture.com/q/Manage_Grades.jpeg)
+
+![App Screenshot](https://www.linkpicture.com/q/Add_Grade.jpeg)
+
+## Demo
+
